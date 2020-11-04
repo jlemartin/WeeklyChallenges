@@ -688,19 +688,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/whitstroup/.nuget/packages/": {}
+    "/Users/johnmartin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/whitstroup/repos/weekly/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+      "projectUniqueName": "/Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
       "projectName": "ChallengesWithTestsMark8",
-      "projectPath": "/Users/whitstroup/repos/weekly/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-      "packagesPath": "/Users/whitstroup/.nuget/packages/",
-      "outputPath": "/Users/whitstroup/repos/weekly/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
+      "projectPath": "/Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+      "packagesPath": "/Users/johnmartin/.nuget/packages/",
+      "outputPath": "/Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/whitstroup/.config/NuGet/NuGet.Config"
+        "/Users/johnmartin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -739,7 +739,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
       }
     }
   }
