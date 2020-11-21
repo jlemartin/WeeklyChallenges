@@ -46,7 +46,6 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8/obj
 /Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.runtimeconfig.dev.json
 /Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.dll
 /Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.pdb
-/Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.csprojAssemblyReference.cache
 /Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 /Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfo.cs
 /Users/johnmartin/Documents/TrueCoders/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
